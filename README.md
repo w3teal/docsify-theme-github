@@ -1,7 +1,3 @@
-> [!CAUTION]
-> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
-> https://gitlab.com/LIGMATV/docsify-theme-github
-
 # Docsify Theme GitHub [Preview](https://docsify-theme-github.vercel.app/)
 The minimal amount of CSS to replicate the GitHub Markdown style
 
